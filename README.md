@@ -7,3 +7,5 @@
 2021-01-03  Extracting Titles
 
 2021-01-04  Extracting Companies
+
+2021-01-05  Extracting Locations and Finishing up
