@@ -9,3 +9,5 @@
 2021-01-04  Extracting Companies
 
 2021-01-05  Extracting Locations and Finishing up
+
+2021-01-06  StackOverflow Pages
