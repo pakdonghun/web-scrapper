@@ -11,3 +11,5 @@
 2021-01-05  Extracting Locations and Finishing up
 
 2021-01-06  StackOverflow Pages
+
+2021-01-07  StackOverflow extract job
